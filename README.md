@@ -22,9 +22,9 @@ i)	#Use a linear search method to match the item in a list.
 '''
 Program to dearch element using linear search method
 
-Developoed by: SATHYAA R
+Developoed by: RAMYA R
 
-Registration number: 212223100052
+Registration number: 212223230169
 '''
 
 ```
@@ -49,9 +49,9 @@ ii)	# Find the element in a list using Binary Search(Iterative Method).
 '''
 Program to find element using Binary Search
 
-Developed by: SATHYAA R
+Developed by: RAMYA R
 
-Registration number: 212223100052
+Registration number: 212223230169
 '''
 ```
 def binary(array,key,low,high):
@@ -80,8 +80,8 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 '''
 Program to find element using Binary Search
-Developed by: SATHYAA R
-Registration number: 212223100052
+Developed by: RAMYA R
+Registration number: 212223230169
 '''
 
 ```
@@ -109,16 +109,18 @@ else:
 ## Sample Input and Output
 
 i)
-![alt text](<Screenshot 2024-03-27 091355.png>)
-![alt text](<Screenshot 2024-03-27 091336.png>)
+![alt text](<Screenshot 2024-04-23 111657.png>)
+![alt text](<Screenshot 2024-04-23 111704.png>)
+
 
 ii)
-![alt text](<Screenshot 2024-03-27 091501.png>)
-![alt text](<Screenshot 2024-03-27 091450.png>)
+![alt text](<Screenshot 2024-04-23 111723.png>)
+![alt text](<Screenshot 2024-04-23 111729.png>)
+
 
 iii)
-![alt text](<Screenshot 2024-03-27 091548.png>)
-![alt text](<Screenshot 2024-03-27 091540.png>)
+![alt text](<Screenshot 2024-04-23 111812.png>)
+![alt text](<Screenshot 2024-04-23 111818.png>)
 
 
 ## Result
